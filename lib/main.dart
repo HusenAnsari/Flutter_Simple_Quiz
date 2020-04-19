@@ -31,14 +31,7 @@ class _MyClassState extends State<MyClass> {
         {'text': 'Elephant', 'score': 1},
       ],
     },
-    {
-      'questionText': 'Whats\'s your food?',
-      'answers': [
-        {'text': 'Panipury', 'score': 10},
-        {'text': 'Dabeli', 'score': 5},
-        {'text': 'Vadapav', 'score': 1},
-      ],
-    },
+
   ];
 
   var _questionIndex = 0;
